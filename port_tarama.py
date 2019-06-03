@@ -6,7 +6,7 @@ os.system("apt-get install figlet")
 os.system("clear")
 os.system("figlet PORT TARAMA")
 print(""" 
-(EMRE KYBS) PORT TARAMA ARACINA HOŞGELDİNİZ :)
+Port  tarama Aracı
 
 1)Hızlı Tarama
 2)Servis ve Versiyon Bilgisi
