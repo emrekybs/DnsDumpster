@@ -6,7 +6,7 @@ os.system("apt-get install figlet")
 os.system("clear")
 os.system("figlet PORT TARAMA")
 print(""" 
-Port tarama aracına hoşgeldin 
+Port tarama 
 
 1)Hızlı Tarama
 2)Servis ve Versiyon Bilgisi
@@ -28,5 +28,5 @@ elif(islemno=="3"):
           hedefip = input("Hedef Ip Girin: ")
           os.system("nmap -0 " + hedefip)
 else: 
-       print("Hatalı Seçim Yaptın Dostum :(")
+       print(" none :(")
 
