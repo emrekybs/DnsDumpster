@@ -5,4 +5,4 @@ apt-get install figlet
 
 chmod +x port-scan  
 
-python3 port-scan.py
+python3 port.tarama.py
